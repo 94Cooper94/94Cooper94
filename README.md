@@ -39,13 +39,14 @@
 
 <p align="center">
 :art: Designed & Created by Cooper Ahearn :art:
-
-<a href="https://github.com/94Cooper94">![Profile Image](https://github.com/94Cooper94.png?size=50)</a>
-<br>
-<a href="https://github.com/94Cooper94">![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)</a>
-<br>
-:chart_with_upwards_trend: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:
-<br>
 </p>
+<p align="center">
+<a href="https://github.com/94Cooper94">![Profile Image](https://github.com/94Cooper94.png?size=50)</a></p>
+<br>
+<p align="center">
+<a href="https://github.com/94Cooper94">![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)</a></p>
+<br>
+<p align="center">:chart_with_upwards_trend: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:</p>
+<br>
 
 <p align="center">Love what you see? Feel free to contact Cooper directly via <a href="mailto:LCAhearn94@gmail.com">email</a></p>
