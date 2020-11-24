@@ -35,13 +35,13 @@
 
 ![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
 
-:email:<h1 align="center">Contact</h1>:email:
+<h1 align="center">:email: Contact :email:</h1>
 
 <p align="center">
 :art: Designed & Created by Cooper Ahearn :art:
 </p>
 <p align="center">
-<a href="https://github.com/94Cooper94"><img alt="Cooper Image" src="https://github.com/94Cooper94.png?size=50" /></a>
+<a href="https://github.com/94Cooper94"><img alt="Cooper Image" src="https://github.com/94Cooper94.png?size=50" /></a><br>
 <a href="https://github.com/94Cooper94"><img alt="Cooper Badge" src="https://img.shields.io/badge/Github-94Cooper94-4cbbb9" /></a>
 </p>
 <p align="center">:chart_with_upwards_trend: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:</p>
