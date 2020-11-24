@@ -21,6 +21,11 @@
 
 <h1 align="center">:computer: Languages & Software :computer:</h1>
 
+<p align="center">
+    <img alt="Cooper's language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight" />
+    <br />
+</p>
+
 **Programming Languages:** JavaScript, TypeScript. <br>
 **Frontend:** React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
 **Backend:** Node.js, Express, Handlebars. <br>
@@ -32,8 +37,6 @@
 **Assorted Software:** Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Discord, Slack, Zoom. <br>
 <!-- Mobile:  <br> -->
 <!-- AI/ML:  <br> -->
-
-![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
 
 <h1 align="center">:email: Contact :email:</h1>
 
