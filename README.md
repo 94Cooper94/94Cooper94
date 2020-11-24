@@ -41,10 +41,10 @@
 :art: Designed & Created by Cooper Ahearn :art:
 </p>
 <p align="center">
-<a href="https://github.com/94Cooper94">![Profile Image](https://github.com/94Cooper94.png?size=50)</a></p>
+<a href="https://github.com/94Cooper94"><img alt="Cooper Image" src="https://github.com/94Cooper94.png?size=50" /></a></p>
 <br>
 <p align="center">
-<a href="https://github.com/94Cooper94">![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)</a></p>
+<a href="https://github.com/94Cooper94"><img alt="Cooper Badge" src="https://img.shields.io/badge/Github-94Cooper94-4cbbb9" /></a></p>
 <br>
 <p align="center">:chart_with_upwards_trend: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:</p>
 <br>
