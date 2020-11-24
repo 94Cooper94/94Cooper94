@@ -19,7 +19,7 @@
   </p>
 </p>
 
-## Languages & Technologies :computer:
+<h1 align="center">:computer: Languages & Software :computer:</h1>
 
 **Programming Languages:** JavaScript, TypeScript. <br>
 **Frontend:** React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
