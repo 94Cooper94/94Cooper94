@@ -26,14 +26,14 @@
     <br />
 </p>
 
-**Programming Languages:** JavaScript, TypeScript.
-**Frontend:** React, HTML, CSS, Bootstrap, Materialize, Tailwind.
-**Backend:** Node.js, Express, Handlebars.
-**Database:** MongoDB, MySQL.
-**Devops:** Bash.
-**Baas:** Heroku.
-**Testing:** Jest.
-**Other:** Linux, Git.
+**Programming Languages:** JavaScript, TypeScript. <br>
+**Frontend:** React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
+**Backend:** Node.js, Express, Handlebars. <br>
+**Database:** MongoDB, MySQL. <br>
+**Devops:** Bash. <br>
+**Baas:** Heroku. <br>
+**Testing:** Jest. <br>
+**Other:** Linux, Git. <br>
 **Assorted Software:** Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Discord, Slack, Zoom.<br>
 <!-- Mobile:  <br> -->
 <!-- AI/ML:  <br> -->
