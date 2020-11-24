@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## GITHUB STATS
 
-![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=chartreuse-ayu-mirage)
+![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight)
 
 ## LANGUAGES
 
-![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=chartreuse-ayu-mirage)
+![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
