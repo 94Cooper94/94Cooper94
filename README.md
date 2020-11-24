@@ -12,7 +12,6 @@
     <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a>
   </p>  
   <br>
-  <br>
   <p align="center">
     <img alt="Cooper's github stats" src="https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight" />
     <br />
@@ -25,15 +24,21 @@
 Programming Languages: JavaScript, TypeScript. <br>
 Frontend: React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
 Backend: Node.js, Express. <br>
-<!-- Mobile:  <br> -->
-<!-- AI/ML:  <br> -->
 Database: MongoDB, MySQL. <br>
 Devops: Bash. <br>
 Baas: Heroku. <br>
 Testing: Jest. <br>
 Other: Linux, Git. <br>
 Assorted Software: Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Discord, Slack, Zoom. <br>
+<!-- Mobile:  <br> -->
+<!-- AI/ML:  <br> -->
 
-<!-- ![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight) -->
+![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
+
+## Contact :email:
+
+<a href="https://github.com/94Cooper94">![Profile Image](https://github.com/94Cooper94.png?size=50)</a>
+<a href="https://github.com/94Cooper94">![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)</a>
+:cd: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn: LCAhearn</a> :cd:<br>
 
 <p align="center">Love what you see? Feel free to contact Cooper directly via <a href="mailto:LCAhearn94@gmail.com">email</a></p>
