@@ -31,6 +31,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight" alt="Cooper's github stats">
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight" alt="Cooper's languages used">
 </p>
 
