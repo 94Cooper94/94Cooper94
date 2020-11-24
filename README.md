@@ -27,15 +27,15 @@
 </p>
 
 <p align="center">
-  <h4 align="center">Programming Languages:</h4>JavaScript, TypeScript. <br>
-  <h4 align="center">Frontend:</h4> React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
-  <h4 align="center">Backend:</h4> Node.js, Express, Handlebars. <br>
-  <h4 align="center">Database:</h4> MongoDB, MySQL. <br>
-  <h4 align="center">Devops:</h4> Bash. <br>
-  <h4 align="center">Baas:</h4> Heroku. <br>
-  <h4 align="center">Testing:</h4> Jest. <br>
-  <h4 align="center">Other:</h4> Linux, Git. <br>
-  <h4 align="center">Assorted Software:</h4> Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Discord, Slack, Zoom. <br>
+  <h4 align="center">Programming Languages:</h4><p align="center"> JavaScript, TypeScript.</p> <br>
+  <h4 align="center">Frontend:</h4><p align="center"> React, HTML, CSS, Bootstrap, Materialize, Tailwind.</p> <br>
+  <h4 align="center">Backend:</h4><p align="center"> Node.js, Express, Handlebars.</p> <br>
+  <h4 align="center">Database:</h4><p align="center"> MongoDB, MySQL.</p> <br>
+  <h4 align="center">Devops:</h4><p align="center"> Bash.</p> <br>
+  <h4 align="center">Baas:</h4><p align="center"> Heroku.</p> <br>
+  <h4 align="center">Testing:</h4><p align="center"> Jest.</p> <br>
+  <h4 align="center">Other:</h4><p align="center"> Linux, Git.</p> <br>
+  <h4 align="center">Assorted Software:</h4><p align="center"> Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Discord, Slack, Zoom.</p> <br>
 </p>
 <!-- Mobile:  <br> -->
 <!-- AI/ML:  <br> -->
