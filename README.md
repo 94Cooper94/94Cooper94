@@ -23,7 +23,7 @@
 
 Programming Languages: JavaScript, TypeScript. <br>
 Frontend: React, HTML, CSS, Bootstrap, Materialize, Tailwind. <br>
-Backend: Node.js, Express. <br>
+Backend: Node.js, Express, Handlebars. <br>
 Database: MongoDB, MySQL. <br>
 Devops: Bash. <br>
 Baas: Heroku. <br>
@@ -37,8 +37,12 @@ Assorted Software: Figma, Adobe Illustrator, GitHub, GitHub Pages, Postman, Disc
 
 ## Contact :email:
 
+Designed & Created by Cooper Ahearn :art:
+
 <a href="https://github.com/94Cooper94">![Profile Image](https://github.com/94Cooper94.png?size=50)</a>
 <a href="https://github.com/94Cooper94">![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)</a>
-:cd: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn: LCAhearn</a> :cd:<br>
+<br>
+Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:
+<br>
 
 <p align="center">Love what you see? Feel free to contact Cooper directly via <a href="mailto:LCAhearn94@gmail.com">email</a></p>
