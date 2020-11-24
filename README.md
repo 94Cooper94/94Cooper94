@@ -29,6 +29,10 @@
 
 ## GitHub Stats & Languages
 
-![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight)![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight" alt="Cooper's github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight" alt="Cooper's languages used">
+</p>
 
-<p align="center">Love what you see? Feel free to connect via <a href="https://www.paypal.me/anuraghazra">LinkedIn</a> and contact Cooper directly!
+
+<p align="center">Love what you see? Feel free to connect via <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> and contact Cooper directly!</p>
