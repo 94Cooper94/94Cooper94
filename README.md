@@ -26,10 +26,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
 </p>
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
 
 ## GitHub Stats & Languages
 
-![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight)
+![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=94Cooper94&count_private=true&theme=tokyonight)![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
 
-![Cooper's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=94Cooper94&count_private=true&theme=tokyonight)
+<p align="center">Love what you see? Feel free to connect via <a href="https://www.paypal.me/anuraghazra">LinkedIn</a> and contact Cooper directly!
