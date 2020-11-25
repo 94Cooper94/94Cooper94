@@ -41,13 +41,14 @@
 <h1 align="center">:email: Contact :email:</h1>
 
 <p align="center">
-:art: Designed & Created by Cooper Ahearn :art:
-</p>
-<p align="center">
 <a href="https://github.com/94Cooper94"><img alt="Cooper Image" src="https://github.com/94Cooper94.png?size=50" /></a><br>
 <a href="https://github.com/94Cooper94"><img alt="Cooper Badge" src="https://img.shields.io/badge/Github-94Cooper94-4cbbb9" /></a>
 </p>
 <p align="center">:chart_with_upwards_trend: Cooper - <a href="https://www.linkedin.com/in/lcahearn/">LinkedIn</a> :chart_with_upwards_trend:</p>
 <br>
+
+<p align="center">
+:art: Designed & Created by Cooper Ahearn :art:
+</p>
 
 <p align="center">Love what you see? Feel free to contact Cooper directly via <a href="mailto:LCAhearn94@gmail.com">email.</a></p>
